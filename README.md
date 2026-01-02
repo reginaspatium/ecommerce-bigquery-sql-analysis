@@ -1,4 +1,4 @@
-<img width="1164" height="1788" alt="image" src="https://github.com/user-attachments/assets/1472750d-ee0f-4167-9ae8-0cc598e8a055" /># Ecommerce User Acquisition & Email Performance Analysis
+# Ecommerce User Acquisition & Email Performance Analysis
 
 ## Project Overview
 This project analyzes user distribution by country and evaluates email marketing effectiveness.
