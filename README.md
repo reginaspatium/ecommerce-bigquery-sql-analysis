@@ -5,7 +5,7 @@ This project analyzes user distribution by country and evaluates email marketing
 
 ### 📊 Interactive Dashboard
 You can view report here: 
-[👉 View Looker Studio Report](https://lookerstudio.google.com/reporting/850dc96e-569c-41e2-994f-d9cdfbf89612)
+[👉 View Looker Studio Report](https://lookerstudio.google.com/reporting/28f1aad5-0b3d-40ca-87cf-d20cc89c9bce)
 
 ---
 ### Preview
