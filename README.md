@@ -9,7 +9,7 @@ You can view report here:
 
 ---
 ### Preview
-![Dashboard Preview](image_d22bd2.png)
+![Dashboard Preview](visualizations/image_d22bd2.png)
 
 ## Technical Stack
 * **SQL**: BigQuery (CTEs, Window Functions, Joins).
